@@ -15,7 +15,7 @@ The YOLOv5 model used in this project was trained using Google Colab with the fo
 Batch size: 16
 Epochs: 100
 Model: YOLOv5 X-Large
-After training, the model weights were exported. You can download the trained weights file (best.pt) and use it for inference.
+After completing training, you can download the trained weights file (best.pt) for inference.
 
 ## Environment setup
 
