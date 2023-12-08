@@ -4,7 +4,7 @@ This repository contains a Python script that utilises the YOLOv5 object detecti
 
 ## Data Generation
 
-The synthetic data used for training was generated using the Jupyter Notebook file synthetic_data.ipynb. This notebook contains the code to generate synthetic data, including images with brushes in various scenarios to diversify the training dataset.
+The synthetic data used for training was generated using the Jupyter Notebook file `synthetic_data.ipynb`. This notebook contains the code to generate synthetic data, including images with brushes in various scenarios to diversify the training dataset.
 
 ## Model Training
 
