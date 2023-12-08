@@ -10,11 +10,11 @@ The synthetic data used for training was generated using the Jupyter Notebook fi
 
 The YOLOv5 model used in this project was trained using Google Colab with the following parameters:
 
-1000 synthetic data images for training
-200 synthetic images for validation
-Batch size: 16
-Epochs: 100
-Model: YOLOv5 X-Large
+1000 synthetic data images for training,
+200 synthetic images for validation,
+Batch size: 16,
+Epochs: 100,
+Model: YOLOv5 X-Large.
 After completing training, you can download the trained weights file (best.pt) for inference.
 
 ## Environment setup
