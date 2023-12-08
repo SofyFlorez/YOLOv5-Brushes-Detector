@@ -1,6 +1,6 @@
 # YOLOv5 Brushes Detector
 
-This repository contains a Python script that utilizes the YOLOv5 object detection model to detect brushes in both live video feed and static images. The YOLOv5 model is loaded using PyTorch and the Ultralytics YOLOv5 hub. The code combines video capture functionality with real-time detection and static image detection.
+This repository contains a Python script that utilises the YOLOv5 object detection model to detect brushes in both live video feed and static images. The YOLOv5 model is loaded using PyTorch and the Ultralytics YOLOv5 hub. The code combines video capture functionality with real-time detection and static image detection.
 
 ## Data Generation
 
