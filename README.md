@@ -35,7 +35,7 @@ python live_video_detection.py
 
 This command will open a video feed from the specified device index (in this case, index 1) and perform real-time brush detection. Press 'q' to exit the video feed.
 
-<img width="304" alt="Screenshot 2023-12-07 at 15 14 38" src="https://github.com/SofyFlorez/YOLOv5-Brushes-Detector/assets/117933153/02798309-3189-462a-ad25-64bcd20f0c49">
+<img width="477" alt="Screenshot 2023-12-07 at 15 23 48" src="https://github.com/SofyFlorez/YOLOv5-Brushes-Detector/assets/117933153/819eb799-6209-43e2-bb6c-228fdf8c9a43">
 
 #### Image Detection
 
