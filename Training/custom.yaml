@@ -1,0 +1,14 @@
+train: /content/drive/MyDrive/data/images/train # train images (relative to 'path') 1000 images
+val: /content/drive/MyDrive/data/images/val  # val images (relative to 'path') 200 images
+
+# Classes
+names:
+  0: blush_brush
+  1: foundation_brush
+  2: highlighter_brush
+  3: powder_brush
+  
+
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
